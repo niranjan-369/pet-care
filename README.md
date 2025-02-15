@@ -1,6 +1,7 @@
 # Pet Care Project
 
 This is a simple frontend project for a pet care application. It is built using HTML, CSS, and JavaScript.
+Demo: https://niranjan-369.github.io/pet-care/
 
 ## Features
 
