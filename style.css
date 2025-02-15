@@ -357,7 +357,7 @@ nav.sticky {
     border: 2px solid white;
     width: 550px; /* Ensure images fill their container */
     height: 420px;
-    border-bottom: 2px solid #ddd;
+    border: 2px solid var(--heading-color);
 }
 
 .service-icon{
